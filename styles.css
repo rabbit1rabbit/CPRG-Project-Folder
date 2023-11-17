@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}
+
+h1 {color:rgb(37, 166, 48); background-color: rgb(227, 187, 87);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:xx-large;
+    font-weight: bolder;
+}
+/* grr angry comment*/
+
+h2 {color:rgb(195, 229, 73); background-color: rgb(72, 106, 71);
+     text-shadow: -1px -1px 0 #000;
+}
+
+p {color: aquamarine; background-color: blueviolet;}
+
+table, tr, th, td {
+    border: 3px solid green;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+ol {color: rgb(199, 122, 122);
+    background-color:rgb(97, 31, 97) ;
+    border: 4px solid red;
+}
+
