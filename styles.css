@@ -13,7 +13,7 @@ h1 {color:rgb(37, 166, 48); background-color: rgb(227, 187, 87);
 h2 {color:rgb(195, 229, 73);
      background-color: rgb(72, 106, 71);
      text-shadow: -1px -1px 0 #000;
-     padding;
+     padding: 1px;
 }
 
 h3 {color: rgb(143, 230, 103);
