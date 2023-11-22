@@ -40,3 +40,11 @@ figure {text-align: center;
     height: fit-content;
     padding: 2%;
 }
+
+#work {font-family:cursive;
+    font-size: larger;
+    font-weight: 900;
+    letter-spacing: 0.1cm;
+    line-height: 1cm;
+    text-align: center;
+}
