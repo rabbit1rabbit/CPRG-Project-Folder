@@ -7,10 +7,18 @@ h1 {color:rgb(37, 166, 48); background-color: rgb(227, 187, 87);
     font-size:xx-large;
     font-weight: bolder;
 }
+
 /* grr angry comment*/
 
-h2 {color:rgb(195, 229, 73); background-color: rgb(72, 106, 71);
+h2 {color:rgb(195, 229, 73);
+     background-color: rgb(72, 106, 71);
      text-shadow: -1px -1px 0 #000;
+     padding;
+}
+
+h3 {color: rgb(143, 230, 103);
+    background-color: rgb(209, 136, 46);
+    text-shadow: -1px -1px 0 #000
 }
 
 p {color: aquamarine; background-color: blueviolet;}
@@ -26,3 +34,9 @@ ol {color: rgb(199, 122, 122);
     border: 4px solid red;
 }
 
+figure {text-align: center;
+    background-color: rgb(104, 74, 74);
+    width: fit-content;
+    height: fit-content;
+    padding: 2%;
+}
