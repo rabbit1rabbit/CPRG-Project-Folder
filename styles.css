@@ -2,7 +2,8 @@ body{
     background-color: pink;
 }
 
-h1 {color:rgb(37, 166, 48); background-color: rgb(227, 187, 87);
+h1 {color:rgb(37, 166, 48);
+    background-color: rgb(227, 187, 87);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size:xx-large;
     font-weight: bolder;
@@ -21,7 +22,8 @@ h3 {color: rgb(143, 230, 103);
     text-shadow: -1px -1px 0 #000
 }
 
-p {color: aquamarine; background-color: blueviolet;}
+p {color: aquamarine;
+    background-color: blueviolet;}
 
 table, tr, th, td {
     border: 3px solid green;
@@ -47,4 +49,10 @@ figure {text-align: center;
     letter-spacing: 0.1cm;
     line-height: 1cm;
     text-align: center;
+    text-transform: capitalize;
+    white-space: normal;
+}
+
+footer {font-size:xx-large;
+    line-height: 2cm;
 }
