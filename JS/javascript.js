@@ -22,5 +22,9 @@ document.getElementById('btn-alert').onmouseover = () => {
 }
 
 document.getElementById('btn-alert').onmouseleave = () => {
-    document.getElementById('btn-alert').innerText ='HOVER OVER ME';
+    document.getElementById('btn-alert').innerText ='CLICK ON ME';
+}
+
+const myButton = () => {
+    alert("hello friends");
 }
