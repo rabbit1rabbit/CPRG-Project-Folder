@@ -17,4 +17,10 @@ let currentNumber = 0;
 
 document.getElementById('footer').textContent = new Date().getFullYear();
 
+document.getElementById('btn-alert').onmouseover = () => {
+    document.getElementById('btn-alert').innerText ='GET OFF OF ME';
+}
 
+document.getElementById('btn-alert').onmouseleave = () => {
+    document.getElementById('btn-alert').innerText ='HOVER OVER ME';
+}
